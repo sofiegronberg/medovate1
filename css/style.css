@@ -10,7 +10,7 @@ body {
     background-size: 100%;
 }
 
-/*NAVIGATIONSBAR lavet med inspiration fra en udleveret kode skrevet af Michelle*/
+/*NAVIGATIONSBAR lavet med inspiration fra en udleveret kode skrevet af Michelle Andreassen*/
 header {
     width: 100%;
     padding-right: 5%;
@@ -519,7 +519,6 @@ footer p {
 }
 
 /*MEDIA QUERY LAPTOP AND ABOVE*/
-
 @media all and (min-width: 1024px) {
 
     /*HEADER*/
